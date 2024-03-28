@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://hansonr.github.io/astro-portfolio/",
   name: "Hanson Ramkhalawon",
   jobDescription: "Full-Stack Developer",
   about: `I'm a software engineer based in Louvres, France.
@@ -25,7 +25,7 @@ I am particularly interested in the DevOps approach and the Go programming langu
     {
       name: "Serimax Holding",
       location: "Architect Cloud | Roissy 95700",
-      startDate: "April 2020",
+      startDate: "April 2022",
       endDate: "October 2022",
       description: [
         "✓ In the digitization division, I was in charge of maintaining the data manager application in electron.js",
@@ -80,9 +80,9 @@ I am particularly interested in the DevOps approach and the Go programming langu
   ],
 
   socialMedia: {
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/HansonR",
+    email: "mailto:hanson.r@outlook.com",
+    linkedin: "https://www.linkedin.com/in/hanson-ramkhalawon-81340392/",
   },
 
   projects: [
@@ -90,8 +90,8 @@ I am particularly interested in the DevOps approach and the Go programming langu
       title: "Astro Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/HansonR",
+      liveUrl: "https://hansonr.github.io/astro-portfolio/",
     },
   ],
 };
