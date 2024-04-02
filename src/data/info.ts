@@ -13,7 +13,7 @@ I am particularly interested in the DevOps approach and the Go programming langu
   experience: [
     {
       name: "Atos SE",
-      location: "Ingénieur FullStack | Bezons 95870",
+      location: "Fullstack developer | Bezons 95870",
       startDate: "february 2023",
       endDate: "Present",
       description: [
@@ -24,7 +24,7 @@ I am particularly interested in the DevOps approach and the Go programming langu
 
     {
       name: "Serimax Holding",
-      location: "Architect Cloud | Roissy 95700",
+      location: "Cloud architech | Roissy 95700",
       startDate: "April 2022",
       endDate: "October 2022",
       description: [
@@ -37,7 +37,7 @@ I am particularly interested in the DevOps approach and the Go programming langu
 
     {
       name: "Alten : Renault & Orange",
-      location: "Ingénieur DevOps | Ile de France",
+      location: "Devops engineer | Ile de France",
       startDate: "June 2021",
       endDate: "March 2022",
       description: [
@@ -48,7 +48,7 @@ I am particularly interested in the DevOps approach and the Go programming langu
 
     {
       name: "GFI informatique : Thales",
-      location: "Consultant JAVA/PLM | Meudon 92190",
+      location: "Java software developer | Meudon 92190",
       startDate: "January 2018",
       endDate: "November 2020",
       description: [
